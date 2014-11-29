@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: professional_score_development
+  pool: 5
+  username: shnarayan
+  password: 
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: professional_score_test
+  pool: 5
+  username: shnarayan
+  password: 
